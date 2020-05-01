@@ -1,0 +1,9 @@
+{
+  "name": "data_structures",
+  "version": "1.0.0",
+  "description": "learning code about data structure",
+  "main": "index.js",
+  "repository": "https://github.com/zhgbin0501/learn",
+  "author": "zhgbin0501",
+  "license": "MIT"
+}
