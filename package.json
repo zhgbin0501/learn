@@ -5,5 +5,12 @@
   "main": "index.js",
   "repository": "https://github.com/zhgbin0501/learn",
   "author": "zhgbin0501",
-  "license": "MIT"
+  "scripts": {
+    "start": "nodemon Chapter1/chapter1.js"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
 }
