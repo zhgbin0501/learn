@@ -139,3 +139,4 @@ function lowArr(a, b) {
 var highArr = testArr.sort(sortArr);
 var lowArrRes = testArr.sort(lowArr);
 console.log(highArr, lowArrRes);
+
