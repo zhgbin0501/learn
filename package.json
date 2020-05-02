@@ -6,7 +6,7 @@
   "repository": "https://github.com/zhgbin0501/learn",
   "author": "zhgbin0501",
   "scripts": {
-    "start": "nodemon Chapter1/chapter1.js"
+    "start": "nodemon Chapter2/chapter2.js"
   },
   "license": "MIT",
   "dependencies": {},
